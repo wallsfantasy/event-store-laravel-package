@@ -1,5 +1,5 @@
 {
-    "name": "camuthig/event-store-laravel-package",
+    "name": "wallsfantasy/event-store-laravel-package",
     "description": "A package for using the event store in a Laravel project",
     "type": "library",
     "license": "BSD-3-Clause",
@@ -20,7 +20,7 @@
         "prooph/pdo-event-store": "^1.0"
     },
     "require-dev": {
-        "laravel/framework": "5.5.*",
+        "laravel/framework": "^5.6",
         "prooph/event-sourcing": "^5.2"
     },
     "extra": {
